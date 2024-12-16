@@ -1,0 +1,26 @@
+Documentation
+=============
+
+Here, you will find the documentation for deeplay.
+The documentation is organized into the following sections:
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Contents:
+
+   list
+   models
+   module
+   ops
+   callbacks
+   activelearning
+   initializers
+   decorators
+   external
+   trainer
+   blocks
+   meta
+   shapes
+   components
+   applications
+
